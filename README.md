@@ -10,5 +10,5 @@ Based on the Springboot tutorial listed here: https://spring.io/guides/gs/spring
 
 
 # Comments and Suggestions
-Using Maven would had made troubleshooting a lot easier and cleaner to write dependencies in. 
-I should really buy a Mac with my first paycheck..
+- Using Maven would had made troubleshooting a lot easier and cleaner to write dependencies in. 
+- I should really buy a Mac with my first paycheck..
